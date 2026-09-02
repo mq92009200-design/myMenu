@@ -1,0 +1,7 @@
+Package: com.yourname.mylaunchermenu
+Name: MyLauncherMenu
+Architecture: iphoneos-arm
+Description: Custom Launcher Menu for Kamalna
+Maintainer: YourName
+Author: YourName
+Version: 0.0.1
